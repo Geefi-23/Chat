@@ -1,5 +1,5 @@
 /**
- * @author Geefi-23
+ * @author Milton R.(Geefi)
  * @description módulo destinado ao controle geral das mensagens
  */
 

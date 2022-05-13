@@ -1,3 +1,8 @@
+/**
+ * @author Milton R.(Geefi)
+ * 
+ */
+
 'use strict'
 import chat from "./chatHandler.js";
 
