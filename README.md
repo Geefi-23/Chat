@@ -2,7 +2,8 @@
 Chat feito com socket.io em NodeJS
 
 ## Como instalar
-Clone o repositório para algum diretório do seu computador usando `git clone https://github.com/Geefi-23/Chat` ou baixe o arquivo .zip clicando em Code.
+Clone o repositório para algum diretório do seu computador usando `git clone https://github.com/Geefi-23/Chat.git
+` ou baixe o arquivo .zip clicando em Code.
 
 Depois, rode o comando `npm install` para instalar todas as dependeências listadas no package.json.
 
