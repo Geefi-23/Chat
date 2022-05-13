@@ -1,0 +1,9 @@
+input:focus, button:focus, textarea:focus, *[contenteditable]{
+  outline: 0;
+}
+
+pre{
+  font-family: inherit;
+  font-size: inherit;
+  margin-bottom: 0;
+}
