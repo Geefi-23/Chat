@@ -1,3 +1,11 @@
+/**
+ * @author Milton R. (Geefi)
+ * Projeto de chat em tempo real usando socket.io.
+ * Este projeto é de livre uso pessoal. Para fins comerciais, deve-se entrar em contato no email: miltinjs.dev@gmail.com
+ * 
+ * github: https://github.com/Geefi-23/Chat/
+ */
+
 const engines = require('consolidate');
 const express = require('express');
 const app = express();
@@ -13,6 +21,7 @@ app.get('/', (req, res) => {
   res.render('index.html');
 });
 
+// Connected users list
 const users = [];
 
 const server = http.createServer(app);
